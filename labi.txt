@@ -1,3 +1,5 @@
 name
 date of birth
 place of birth
+state
+country
