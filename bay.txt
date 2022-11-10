@@ -4,3 +4,5 @@ the least
 the largest
 the highest
 the smallest
+length
+breadth
